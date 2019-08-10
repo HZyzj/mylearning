@@ -1,3 +1,3 @@
 all:
-	gcc main.c -o run -Wall -g
+	gcc main.c -o ./bin/run -Wall -g
 
